@@ -93,10 +93,3 @@ img:hover {
 .inst:hover {
     transform:scale(1.05) ;
 }
-video {
-    width: 100%;
-    height: auto;
-    display: block;
-    margin: 20px auto;
-    border-radius: 10px;
-}
